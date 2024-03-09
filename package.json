@@ -1,0 +1,23 @@
+{
+  "name": "20230523135754663",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "discord.js": "^14.11.0",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "node-geocoder": "^4.2.0",
+    "request": "^2.88.2",
+    "xhr2": "^0.2.1"
+  }
+}
